@@ -1,0 +1,31 @@
+@import url(reset.css)
+#wrapper{
+	width: 1000px;
+	margin: 0 auto;
+}
+#logo {
+	width: 346px;
+	height: 344px;
+	float: left;
+}
+#menu {
+	background: url(../images/menu_bg.png) no-repeat;
+	width: 970px;
+	height: 234px;
+}
+#menu h1{
+	font: bold 50px Comic Sans MS, Verdana, sans-serif;
+	text-decoration: underline;
+}
+	
+	#menu span{
+    width: 300px;
+    margin-left: 100px;
+	margin-bottom: 200px;
+    font: bold 30px Comic Sans MS, Verdana, sans-serif; 
+   }
+   #content span a{
+	font: bold 20px Comic Sans MS, Verdana, sans-serif; 
+	margin-bottom: 200px;
+	float: left;
+   } 
